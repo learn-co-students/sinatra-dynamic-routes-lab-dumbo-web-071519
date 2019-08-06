@@ -11,4 +11,7 @@ group :test, :development do
   gem 'capybara'
   gem 'rack-test'
   gem 'pry'
+  gem 'pry-rescue'
+  gem 'pry-stack_explorer'
+  gem 'pry-nav'
 end
